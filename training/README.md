@@ -45,3 +45,8 @@ commande : ``llamafactory-cli train config_training.yaml``.
 Cela va lancer l'entrainement sur les données spécifiées.
 De plus le LoRA sera directement push sur le repo Hugging Face
 grâce à la config.
+
+## Produit final
+Le modèle a été uploadé sur Hugging Face à cette adresse :
+https://huggingface.co/pollord/qwen_nba
+Les fichiers sont disponible.
